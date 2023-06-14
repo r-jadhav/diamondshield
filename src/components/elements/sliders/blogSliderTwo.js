@@ -11,8 +11,8 @@ const BlogSliderTwo = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="section-title-wrapper text-center mb-50">
-                            <h5 className="section-subtitle mb-20">recent blog posts</h5>
-                            <h2 className="section-title">News & Articles</h2>
+                            <h5 className="section-subtitle mb-20">recent product</h5>
+                            <h2 className="section-title">Products</h2>
                         </div>
                     </div>
                 </div>

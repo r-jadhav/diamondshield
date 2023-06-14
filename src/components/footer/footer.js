@@ -14,7 +14,7 @@ const Footer = ({footer_space}) => {
                         <div className="col-lg-4 col-sm-6">
                             <div className="widget mb-30">
                                 <div className="footer-logo mb-25">
-                                    <Link to="/"><img src="/assets/img/logo/logo-white.png" className="img-fluid" alt="footer-logo" /></Link>
+                                    <Link to="/"><img src="/assets/img/logo/logo.svg" className="img-fluid" alt="footer-logo" /></Link>
                                 </div>
                                 <p className="mb-20 pr-35">There are many vari of pass of lorem ipsum availab but the majority have suffered in some form by injected humour or words.</p>
                                 <div className="footer-social">

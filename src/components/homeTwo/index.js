@@ -1,5 +1,5 @@
 import React from 'react';
-import BrandSectionTwo from '../elements/brands/brandSectionTwo';
+// import BrandSectionTwo from '../elements/brands/brandSectionTwo';
 import BlogSliderTwo from '../elements/sliders/blogSliderTwo';
 import Footer from '../footer/footer';
 import HeaderTwo from '../header/headerTwo';
@@ -20,15 +20,15 @@ const index = () => {
             <HeaderTwo />
             <main>
                 <HeroSectionTwo />
-                <BrandSectionTwo />
-                <IntroductionSection />
+                {/* <BrandSectionTwo /> */}
+                {/* <IntroductionSection />
                 <ServiceSectionTwo />
                 <TrustSection />
                 <TeamSection />
                 <WhyWeSection />
                 <ProjectTwo />
                 <FactSection />
-                <BenefitsSection />
+                <BenefitsSection /> */}
                 <BlogSliderTwo />
                 <CtaSection cta_space="cta-area mb--60 z-index" />
             </main>
