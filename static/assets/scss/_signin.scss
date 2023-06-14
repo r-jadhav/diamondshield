@@ -1,0 +1,143 @@
+@use "common" as *;
+@use "variables" as *;
+@use "mixins" as *;
+
+.signin-area-wrapper {
+	display: flex;
+}
+.sign-up-wrapper {
+	display: flex;
+}
+.signup-wrapper {
+	position: relative;
+	input {
+		width: 100%;
+		height: 55px;
+		background: #f5f5f5;
+		border: 0;
+		border-radius: 4px;
+		margin-bottom: 30px;
+		display: flex;
+		padding: 10px 20px;
+		outline: none;
+		color: $body-color;
+		font-size: 16px;
+	}
+}
+.signup-input-wrapper {
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+    @include mq(md){
+        display: inherit;
+    }
+    @include mq(xs){
+        display: inherit;
+    }
+    @include mq(sm){
+        display: inherit;
+    }
+}
+.signup-input-wrapper {
+	input {
+		width: 100%;
+		height: 55px;
+		background: #f5f5f5;
+		border: 0;
+		border-radius: 4px;
+		margin-bottom: 30px;
+		display: flex;
+		padding: 10px 20px;
+		outline: none;
+		color: $body-color;
+		font-size: 16px;
+	}
+}
+.sign-check {
+	a {
+		color: $theme-color;
+		font-weight: 700;
+		text-decoration: underline;
+		&:hover {
+			color: $heading-color;
+		}
+	}
+}
+.signup-box {
+	background: #f5f5f5;
+	padding: 45px 30px;
+}
+.signup-thumb {
+	img {
+		max-width: 100%;
+	}
+}
+.signup-form-wrapper {
+	padding: 45px 30px 0px 30px;
+	background: $white-color;
+}
+.signup-action {
+	margin-bottom: 25px;
+}
+.sing-buttom {
+    button {
+        width: 100%;
+    }
+}
+.registered.wrapper {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.forget-password a {
+    color: $body-color;
+    font-size: 15px;
+	&:hover {
+		color: $theme-color;
+	}
+}
+.acount-login {
+	margin-bottom: 30px;
+	a {
+		font-weight: 600;
+		color: $theme-color;
+		margin-left: 5px;
+		text-decoration: underline;
+		&:hover {
+			color: $heading-color;
+		}
+	}
+}
+.signup-text {
+	h3 {
+		font-size: 28px;
+		margin-bottom: 106px;
+	}
+}
+.signup-message {
+	img {
+		max-width: 100%;
+		margin-bottom: 5px;
+	}
+}
+.not-register {
+	a {
+		font-weight: 600;
+		color: $theme-color;
+		text-decoration: revert;
+		margin-left: 5px;
+	}
+}
+
+.helper-text.red-text {
+	position: absolute;
+	bottom: -25px;
+	left: 0;
+	font-size: 12px;
+	color: #e23;
+}
+.signup-action {
+    label {
+        margin-left: 5px;
+    }
+}
