@@ -13,6 +13,7 @@ import ProjectTwo from './projectTwo';
 import ServiceSectionTwo from './serviceSectionTwo';
 import TeamSection from './teamSection';
 import WhyWeSection from './whyWeSection';
+import Product from './Product';
 
 const index = () => {
     return (
@@ -20,6 +21,7 @@ const index = () => {
             <HeaderTwo />
             <main>
                 <HeroSectionTwo />
+                <Product/>
                 {/* <BrandSectionTwo /> */}
                 {/* <IntroductionSection />
                 <ServiceSectionTwo />
@@ -28,8 +30,8 @@ const index = () => {
                 <WhyWeSection />
                 <ProjectTwo />
                 <FactSection />
-                <BenefitsSection /> */}
-                <BlogSliderTwo />
+                <BenefitsSection /> 
+                <BlogSliderTwo />*/}
                 <CtaSection cta_space="cta-area mb--60 z-index" />
             </main>
             <Footer footer_space="pt-155 position-relative" />

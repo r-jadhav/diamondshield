@@ -29,11 +29,10 @@ const Footer = ({footer_space}) => {
                             <div className="widget mb-30">
                                 <h4 className="widget-title mb-35">Links</h4>
                                 <ul>
-                                    <li><Link to="/services">Our Services</Link></li>
-                                    <li><Link to="/about">Meet Our Team</Link></li>
-                                    <li><Link to="/projects">Our Portfolio</Link></li>
+                                    <li><Link to="/about">About</Link></li>
+                                    <li><Link to="/projects">Our Product</Link></li>
+                                    <li><Link to="/blog">Blog</Link></li>
                                     <li><Link to="/contact">Contact</Link></li>
-                                    <li><Link to="/contact">Help</Link></li>
                                 </ul>
                             </div>
                         </div>
@@ -42,8 +41,8 @@ const Footer = ({footer_space}) => {
                                 <h4 className="widget-title mb-35">Contact</h4>
                                 <ul>
                                     <li className="pb-10">86 Road Broklyn Street, 600 <br />New York, USA</li>
-                                    <li><img src="/assets/img/icon/footer-icon-1.png" className="img-fluid" alt="icon-img" /><a href="mailto:needhelp@company.com">needhelp@company.com</a></li>
-                                    <li><img src="/assets/img/icon/footer-icon-2.png" className="img-fluid" alt="icon-img" /><a href="tel:926668880000">92 666 888 0000</a></li>
+                                    <li><img src="/assets/img/icon/footer-icon-1.png" className="img-fluid" alt="icon-img" /><a href="mailto:diamondshield@company.com">diamondshield@company.com</a></li>
+                                    <li><img src="/assets/img/icon/footer-icon-2.png" className="img-fluid" alt="icon-img" /><a href="tel:9988998899">9988998899</a></li>
                                 </ul>
                             </div>
                         </div>

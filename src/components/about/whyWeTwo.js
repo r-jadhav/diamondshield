@@ -12,7 +12,7 @@ const WhyWeTwo = () => {
                         <div className="choose-left mb-40 mr-xs-0 mr-md-0 mr-lg-0 mr-90" data-aos="fade-up-right" data-aos-duration="1000">
                             <div className="section-title-wrapper">
                                 <h5 className="section-subtitle mb-20">All Categories List</h5>
-                                <h2 className="section-title mb-35">Why Choose our agency</h2>
+                                <h2 className="section-title mb-35">BROWSE BY CATEGORY</h2>
                             </div>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
                             </p>
@@ -31,36 +31,36 @@ const WhyWeTwo = () => {
                                 <div className="accordion-item">
                                     <h2 className="accordion-header" id="headingOne">
                                         <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            How to process the funtion for development?
+                                            AUTOMOTIVE
                                         </button>
                                     </h2>
                                     <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                            <p>There are many variations of passages of available but the majority have suffered alteration in that some form by injected randomised words which don’t look even as slightly believable.</p>
+                                            <p>From daily drivers to enthusiast vehicles & exotics, there’s an automotive product to fit every need. Protect your auto inside and out for years to come with impact resistant paint protection film, hydrophobic ceramic coating, and UV-rejecting window film.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="accordion-item">
                                     <h2 className="accordion-header" id="headingTwo">
                                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            Where should I incorporate my business?
+                                            MARINE
                                         </button>
                                     </h2>
                                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                            <p>Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise.</p>
+                                            <p>Just like caring for your car, XPEL products can help maintain all types of boats, PWCs and marine equipment. Keep your watercraft ready for the open water with Marine ceramic coating, window tint, and a variety of surface protection solutions.</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="accordion-item">
                                     <h2 className="accordion-header" id="headingThree">
                                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            How there are many variations of passages
+                                            HOME
                                         </button>
                                     </h2>
                                     <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                         <div className="accordion-body">
-                                            <p>Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones.</p>
+                                            <p>Feeling safe, secure & comfortable in any home or personal living space is important. XPEL offers a wide variety of window films for every application under the sun, and surface protection solutions to improve the quality of living in any style of residence.</p>
                                         </div>
                                     </div>
                                 </div>

@@ -9,7 +9,7 @@ const FooterBottom = () => {
                     <div className="row align-items-center">
                         <div className="col-md-6">
                             <div className="copyright">
-                                <span>Copyright ©2023 BDevs. All Rights Reserved</span>
+                                <span>Copyright ©2023 Diamond Shield. All Rights Reserved</span>
                             </div>
                         </div>
                         <div className="col-md-6">

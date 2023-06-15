@@ -33,7 +33,7 @@ const HeroSectionTwo = () => {
                     >
                         <SwiperSlide>
                             <div className="single-slider slider-height-2 swiper-slides d-flex align-items-center" data-swiper-autoplay="10000">
-                                <div className="slide-bg" style={{ backgroundImage: "url(/assets/img/slider/slider-3.jpg)" }}></div>
+                                <div className="slide-bg" style={{ backgroundImage: "url(/assets/img/slider/hero-3.jpg)" }}></div>
                                 <div className="container">
                                     <div className="row">
                                         <div className="col-lg-12">
@@ -54,7 +54,7 @@ const HeroSectionTwo = () => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <div className="single-slider slider-height-2 swiper-slides d-flex align-items-center" data-swiper-autoplay="10000">
-                                <div className="slide-bg" style={{ backgroundImage: "url(/assets/img/slider/slider-2.jpg)" }}></div>
+                                <div className="slide-bg" style={{ backgroundImage: "url(/assets/img/slider/Image.jpg)" }}></div>
                                 <div className="container">
                                     <div className="row">
                                         <div className="col-lg-12">
@@ -75,7 +75,7 @@ const HeroSectionTwo = () => {
                         </SwiperSlide>
                         <SwiperSlide>
                             <div className="single-slider slider-height-2 swiper-slides d-flex align-items-center" data-swiper-autoplay="10000">
-                                <div className="slide-bg" style={{ backgroundImage: "url(/assets/img/slider/slider-1.jpg)" }}></div>
+                                <div className="slide-bg" style={{ backgroundImage: "url(/assets/img/slider/course-slider.jpg)" }}></div>
                                 <div className="container">
                                     <div className="row">
                                         <div className="col-lg-12">

@@ -13,11 +13,9 @@ const Mission = () => {
                                 <h2 className="section-title mb-35">Our Mission is to
                                     become the best
                                     agency</h2>
-                                <p>Lorem Ipsum is simply dummy text of the printing available in the market for free uses.</p>
+                                {/* <p>Lorem Ipsum is simply dummy text of the printing available in the market for free uses.</p> */}
                             </div>
-                            <p className="mb-45">Lorem ipsum dolor sit amet nsectetur cing elit. Suspe ndisse suscipit sagittis leo
-                                sit met entum is not estibulum dignissim posuere cubilia durae. Leo sit met entum cubilia crae.
-                                but also the leap into electronic typesetting.
+                            <p className="mb-45">Since the day XPEL was founded, we’ve strived to provide the best possible products, services, and support for customers and installers alike. With a comprehensive array of offerings for automotive, watercraft, home, and office applications, there’s sure to be a solution to fit your needs.
                             </p>
                             <div className="ktrust-btn">
                                 <Link to="/services" className="theme-btn border-btn">Discover more</Link>
